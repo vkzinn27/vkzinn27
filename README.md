@@ -2,9 +2,9 @@
 <a href="https://github.com/vkzinn27">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=vkzinn27&theme=radical&show_icons=true" />
 </a>
-<a href="https://github.com/vkzinn27">
+<!-- <a href="https://github.com/vkzinn27">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkzinn27&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+</a> -->
 
 ##
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
   
 </div>
 
-![Snake animation](https://github.com/vkzinn27/vkzinn27/blob/output/github-contribution-grid-snake.svg)
+
           
 
