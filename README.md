@@ -1,9 +1,9 @@
 ## Bem vindo.
 <a href="https://github.com/vkzinn27">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=vkzinn27&theme=radical&show_icons=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=vkzinn27&theme=radical&show_icons=true" />
 </a>
  <a href="https://github.com/vkzinn27">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkzinn27&layout=compact&langs_count=8&card_width=200&theme=radical" />
+  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs?username=vkzinn27&layout=compact&langs_count=8&card_width=200&theme=radical" />
 </a> 
 
 ##
